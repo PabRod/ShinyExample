@@ -1,0 +1,1 @@
+This small Shiny application has been created as an exercise  for Coursera's Data Science Specialization course: Developing Data Products.

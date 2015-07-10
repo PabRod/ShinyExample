@@ -18,7 +18,7 @@ shinyUI(
             h4('Inferred standard deviation'),
             verbatimTextOutput("sampleSd"),
             plotOutput('plot'),
-            h5('By Pablo Rodriguez. July 2015')
+            h5('July 2015')
         )
     )
 )
